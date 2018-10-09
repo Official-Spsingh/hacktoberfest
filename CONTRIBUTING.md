@@ -1,6 +1,6 @@
 # Contribution rules
 
-- Project must work when opening index.html
+- Project must work when index.html opens
 - You are allowed to make pull requests that break the rules. We just won't merge it ;)
 - Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
 - Do NOT remove Videos, Rules, FAQs or any other helpful content.
